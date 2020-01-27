@@ -1,5 +1,3 @@
-# Alexey Terin, alexterin@rambler.ru, 086 1426675
-
 from tkinter import *
 import tkinter.filedialog as fd
 import tkinter.messagebox as mb
@@ -268,4 +266,3 @@ if __name__ == '__main__':
     root.title('Body Mass Index Calculator')
     app = BodyMassIndexApp(master=root)
     app.mainloop()
-# Alexey Terin, alexterin@rambler.ru, 086 1426675
